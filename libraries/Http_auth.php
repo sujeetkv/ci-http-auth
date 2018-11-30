@@ -2,7 +2,7 @@
 /**
  * Http Auth library for CodeIgniter
  * @author Sujeet <sujeetkv90@gmail.com>
- * @link https://github.com/sujeet-kumar/ci-http-auth
+ * @link https://github.com/sujeetkv/ci-http-auth
  */
 
 class Http_auth
